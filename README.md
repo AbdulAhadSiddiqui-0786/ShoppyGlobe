@@ -46,11 +46,15 @@ A modern e-commerce web application built with React, Redux Toolkit, and Tailwin
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/shoppyglobe.git
+
 2.Install dependencies:
+```bash 
 cd shoppyglobe
 npm install
 npm install -D tailwindcss postcss autoprefixer
 npm install react-redux react-router-dom @reduxjs/toolkit prop-types
+```
+
 
 
 3.Start Development Server
