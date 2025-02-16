@@ -2,7 +2,6 @@
 
 A modern e-commerce web application built with React, Redux Toolkit, and Tailwind CSS. Features infinite scroll, real-time search, and cart management.
 
-![Demo](https://via.placeholder.com/800x400.png?text=ShoppyGlobe+Demo) *Replace with actual screenshot*
 
 ## 🚀 Features
 
